@@ -8,5 +8,5 @@
 
 ---
 *My personal projects:*
-1. [PizzaRpg](https://github.com/GenissonEmilio)
+1. [PizzaRpg](https://github.com/GenissonEmilio/Pizza-project)
 2. [Git-gitHub](https://github.com/GenissonEmilio/Hello-world)
