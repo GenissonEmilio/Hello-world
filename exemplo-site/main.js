@@ -10,6 +10,7 @@ class Site {
   }
   
   init() {
+    alert();
     this.createElement();
     this.body.appendChild(this.element);
   }
